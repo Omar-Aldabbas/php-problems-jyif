@@ -277,7 +277,7 @@ echo "<br />";
 // 48
 $searchWord = "World";
 $pos = strpos($text, $searchWord);
-echo $pos !== false ? "First occurrence at $pos\n" : "$searchWord not found\n";
+echo $pos !== false ? "First occurre at $pos\n" : "$searchWord not found\n";
 echo "<br />";
 
 // 49
