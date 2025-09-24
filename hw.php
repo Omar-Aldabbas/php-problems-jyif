@@ -1,5 +1,4 @@
 <?php
-// A-
 // 1
 echo "Hello, World!\n";
 echo "<br />";
